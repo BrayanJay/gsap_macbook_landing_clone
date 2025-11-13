@@ -400,7 +400,7 @@ body {
     }
 
     footer {
-        @apply container mx-auto py-7 max-lg:px-5;
+        @apply container mx-auto py-7 min-lg:px-5;
 
         .info {
             @apply flex-between;
